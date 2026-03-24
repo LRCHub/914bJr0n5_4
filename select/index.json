@@ -1,0 +1,16 @@
+{
+  "version": 1,
+  "base_track": "リミナルスペース",
+  "base_artist": "MEA",
+  "createdAt": "2026-03-24T09:24:22.498611Z",
+  "candidates": [
+    {
+      "id": "petitlyrics_1",
+      "source": "petitlyrics",
+      "title": "リミナルスペース",
+      "artist": "MEA",
+      "has_synced": false,
+      "path": "select/pl_01_リミナルスペース_MEA.txt"
+    }
+  ]
+}
